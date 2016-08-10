@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MeerNote.iml" filepath="$PROJECT_DIR$/MeerNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibaries/android-volley-master/mylibaries_android-volley-master.iml" filepath="$PROJECT_DIR$/mylibaries/android-volley-master/mylibaries_android-volley-master.iml" />
     </modules>
   </component>
 </project>
